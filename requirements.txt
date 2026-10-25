@@ -1,0 +1,6 @@
+# Requirements for HackerRank Orchestrate: Ghost Data Still Exists
+pandas>=2.0.0
+pypdf>=4.0.0
+pillow>=10.0.0
+python-dateutil>=2.8.0
+pytest>=8.0.0
